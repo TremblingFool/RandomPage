@@ -1,0 +1,17 @@
+body{
+    margin: 0 auto;
+    background: #f9f4e1;
+}
+svg{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    max-height:540px;
+    max-width:960px;
+}
+.photoCredit{
+    position:absolute;
+    bottom:2px;
+    left:5px;
+}

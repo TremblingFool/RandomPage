@@ -1,2 +1,2 @@
 # RandomPage
-Every time you open a website or every click to refresh is a new page
+Every time you open the website or click to refresh is a new page, which fills you with a feeling of unknown and novelty.
